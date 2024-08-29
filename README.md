@@ -20,4 +20,4 @@ conda activate simpli
 python simpli.py example/6w70.xgg2.pdb example/6w70.rank1.sdf 2.0
 ```
 
-![example](imgexamples/6w70.2.4.png)
+![example](examples/6w70.2.4.png)
