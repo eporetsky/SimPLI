@@ -9,3 +9,4 @@ dependencies:
   - numpy=1.26.4
   - pillow=10.4.0
   - scipy=1.14.1
+  - networkx=3.3
